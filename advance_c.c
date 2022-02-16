@@ -4,8 +4,8 @@
 int main()
 {
   int x, y;
-  x=sqr(5);
-  y=cube(5);
+  x = sqr(5);
+  y = cube(5);
   printf("Squre of 5:%d\n",x);
   printf("Cube of 5 :%d\n",y);
 }
